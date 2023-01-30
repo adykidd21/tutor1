@@ -1,5 +1,5 @@
 #versi docker-compose yang digunakan
-version: ‘3.7’
+version: "3.7"
 services:
    #Konfigurasi service webapp
    webapp:
